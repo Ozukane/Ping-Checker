@@ -21,7 +21,7 @@ new g_arPing[MAX_PLAYERS+1][NONE];
 
 public plugin_init()
 {
-	register_plugin("Ping Checker", "26.0.1 RC1", "h1k3");
+	register_plugin("Ping Checker", "26.0.1", "ozukane");
 	register_clcmd("ping_checker", "cmdPingChecker");
 	register_dictionary("ping_checker.txt");
 	
