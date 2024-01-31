@@ -5,7 +5,7 @@
 
 ## 📃 Cvar
 
-"amx_max_ping": `120 (by default)` 
+"amx_max_ping" - `120 (by default)` 
 
 ## 🎉 Download
 https://github.com/Ozukane/Ping-Checker/archive/refs/heads/main.zip
