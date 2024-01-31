@@ -8,4 +8,4 @@
 "amx_max_ping" - `120 (by default)` 
 
 ## 🎉 Download
-https://github.com/Ozukane/Ping-Checker/archive/refs/heads/main.zip
+[ping_checker.amxx](https://github.com/Ozukane/Ping-Checker/releases/download/26.0.1_RC1/ping_checker.amxx)
